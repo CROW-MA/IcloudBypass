@@ -43,7 +43,7 @@ Herramientas Externas
 
 bash
 
-git clone https://github.com/tu-usuario/ios-forensic-tool.git
+git clone https://github.com/CROWN-MA/ios-forensic-tool.git
 cd ios-forensic-tool
 
     Instalar dependencias:
